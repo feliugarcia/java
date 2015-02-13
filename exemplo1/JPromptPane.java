@@ -13,6 +13,7 @@ import static javax.swing.JOptionPane.WARNING_MESSAGE;
  *
  * @author fgmolina
  * @version 3.0
+ * @ Agradecimentos a Moises
  */
 public class JPromptPane extends JOptionPane {
     
