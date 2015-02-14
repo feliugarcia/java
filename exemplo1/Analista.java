@@ -3,6 +3,7 @@
 /**
  *
  * @author fgmolina
+ * @agradecimento Moises
  */
 public class Analista { 
     private String Nome;
