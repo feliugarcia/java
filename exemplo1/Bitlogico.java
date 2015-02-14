@@ -3,6 +3,7 @@
 /**
  *
  * @author fgmolina
+ * @Agradecimento Moises
  */
 public class Bitlogico { 
 
